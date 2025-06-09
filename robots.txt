@@ -1,0 +1,3 @@
+Sitemap: https://erica-qh.github.io/rainbow-cat-litter/sitemap.xml
+User-agent: *
+Disallow:
